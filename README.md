@@ -9,7 +9,6 @@ R. Hennequin, B. David, R. Badeau. "Score informed audio source separation using
 The paper is available on this page:
 http://www.romain-hennequin.fr/En/publications/publications.html
 
-
 ## Setup
 
 Follow the instruction below :
@@ -18,5 +17,13 @@ Follow the instruction below :
 * run setup.m (if asked, click on "add to path")
 
 You should then be able to use any functions or scripts in this directory.
+You can test the code using the script script_SISS.m (might take a little while)
 
 If you experience any troubles, send an email to: romain.hennequin@polytechnique.org
+
+
+## License
+  
+This code is released under the GPL license.
+It contains code by Ken Schutte (MIDI file tools). See http://www.kenschutte.com/midi for more info about this code.
+It contains code by Dan Ellis (stft/istft). See http://www.ee.columbia.edu/~dpwe/ for more info about this code.
