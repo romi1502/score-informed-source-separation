@@ -3,7 +3,7 @@
 
 ## Information
 
-Code of the algorithm described in the paper: 
+Matlab code of the algorithm described in the paper: 
 R. Hennequin, B. David, R. Badeau. "Score informed audio source separation using a parametric model of non-negative spectrogram", IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), May 2011, Prague, Czech Republic
 
 The paper is available on this page:
@@ -25,5 +25,5 @@ If you experience any troubles, send an email to: romain.hennequin@polytechnique
 ## License
   
 This code is released under the GPL license.
-It contains code by Ken Schutte (MIDI file tools). See http://www.kenschutte.com/midi for more info about this code.
-It contains code by Dan Ellis (stft/istft). See http://www.ee.columbia.edu/~dpwe/ for more info about this code.
+It contains code by Ken Schutte (MIDI file tools). See http://www.kenschutte.com/midi for more info about code by Ken Schutte.
+It contains code by Dan Ellis (stft/istft). See http://www.ee.columbia.edu/~dpwe/ for more info about code Dan Ellis.
