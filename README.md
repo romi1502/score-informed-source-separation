@@ -19,8 +19,6 @@ Follow the instruction below :
 You should then be able to use any functions or scripts in this directory.
 You can test the code using the script script_SISS.m (might take a little while)
 
-If you experience any troubles, send an email to: romain.hennequin@polytechnique.org
-
 
 ## License
   
